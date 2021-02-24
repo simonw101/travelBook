@@ -10,8 +10,14 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need the location of your device when app is in use</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need the location of your device when app is in use</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App needs access to your devices location</string>
 	<key>CFBundlePackageType</key>
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
 	<key>CFBundleShortVersionString</key>
